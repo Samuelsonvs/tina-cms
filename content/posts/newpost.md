@@ -1,6 +1,7 @@
 ---
 title: Hey Im New Post
 author: content/authors/pedro.md
+date: 'Wed, 08 Sep 2021 14:07:00 GMT'
 excerpt: >-
   Cras augue metus, suscipit ac condimentum vel, vestibulum non arcu.
   Suspendisse nulla diam, dapibus non lacus vel, feugiat mattis lectus
